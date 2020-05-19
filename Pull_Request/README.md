@@ -9,16 +9,16 @@ This demonstrates is a pull request for CNA 340 IT Project Management.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+[Project] requires [python version 3] to run, with [additional packages, libaries, or mods].
 
 
 #### Repairing and Running
-Once python is installed you can run the program with the following command
+Once python is installed you can run the following program
 
 ```
 Lab 5.1.py
 ```
-The is no error returned.
+The is no error returned. But would like to clean up code line.
 
 ###### Thanks
 Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
