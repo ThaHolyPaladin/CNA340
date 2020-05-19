@@ -13,7 +13,7 @@ This demonstrates is a pull request for CNA 340 IT Project Management.
 
 
 #### Repairing and Running
-Once pyhton is installed you can run the program with the following command
+Once python is installed you can run the program with the following command
 
 ```
 Lab 5.1.py
