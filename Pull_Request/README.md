@@ -1,7 +1,4 @@
-# Project Title
-
-One Paragraph of project description goes here.
-This demonstrates is a pull request for CNA 340 IT Project Management.
+# Fork and README.md
 
 ## Getting Started
 
@@ -22,4 +19,3 @@ The is no error returned. But would like to clean up code line.
 
 ###### Thanks
 Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
-Thanks to Zak i was able to edit this README.md file.
